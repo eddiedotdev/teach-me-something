@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+cdn/
+
+# Testing
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
+*.log
+.env*
+.env.local
+
+# Examples
+examples/vanilla/cdn/
